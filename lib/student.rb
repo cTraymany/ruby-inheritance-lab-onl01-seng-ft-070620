@@ -1,9 +1,9 @@
 class Student < User
   attr_accessor :knowledge
   
-  insitialize
+  def insitialize
   
-  
+end
   
   
 end
